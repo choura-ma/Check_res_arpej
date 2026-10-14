@@ -46,14 +46,15 @@ def fetch_residences():
 def send_email(subject, body):
     user = os.environ["GMAIL_USER"]
     password = os.environ["GMAIL_APP_PASSWORD"]
-    to = os.environ.get("MAIL_TO") or user
+    # MAIL_TO can hold several addresses separated by commas
+    recipients = [a.strip() for a in (os.environ.get("MAIL_TO") or user).split(",") if a.strip()]
     msg = MIMEText(body, "plain", "utf-8")
     msg["Subject"] = subject
     msg["From"] = user
-    msg["To"] = to
+    msg["To"] = ", ".join(recipients)
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as s:
         s.login(user, password)
-        s.sendmail(user, [to], msg.as_string())
+        s.sendmail(user, recipients, msg.as_string())
 
 
 def describe(r):
