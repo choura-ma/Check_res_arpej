@@ -1,12 +1,14 @@
 name: ARPEJ residence watcher
 
 on:
-  schedule:
-    - cron: "*/5 * * * *"    # every 5 minutes (GitHub may delay runs when busy)
   workflow_dispatch:          # lets you run it manually from the Actions tab
 
 permissions:
   contents: write             # needed to commit seen.json
+
+concurrency:
+  group: arpej-watcher        # never run two checks at the same time
+  cancel-in-progress: false
 
 jobs:
   check:
