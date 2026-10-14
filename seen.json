@@ -1,0 +1,58 @@
+{
+  "48660": {
+    "available_rooms": 1,
+    "city": "Villejuif",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/pierre-gilles-de-gennes-residence-etudiante-villejuif/",
+    "price_from": "609.8",
+    "title": "Pierre-gilles De Gennes - Villejuif"
+  },
+  "48809": {
+    "available_rooms": 1,
+    "city": "Montreuil",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/wangari-maathai-residence-etudiante-montreuil/",
+    "price_from": "657.56",
+    "title": "Wangari Maathai (partie Pour Etudiants)"
+  },
+  "48908": {
+    "available_rooms": 1,
+    "city": "Palaiseau",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/edgar-faure-residence-etudiante-palaiseau/",
+    "price_from": "577.74",
+    "title": "Edgar Faure"
+  },
+  "48914": {
+    "available_rooms": 1,
+    "city": "Palaiseau",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/alexandre-manceau-residence-etudiante-palaiseau/",
+    "price_from": "380.8",
+    "title": "Alexandre Manceau (partie Pour Etudiants)"
+  },
+  "48928": {
+    "available_rooms": 1,
+    "city": "Champs-sur-Marne",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/perronet-residence-etudiante-champs-sur-marne/",
+    "price_from": "377.6",
+    "title": "Perronet"
+  },
+  "50002": {
+    "available_rooms": 1,
+    "city": "Saint-Denis",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/residence-etudiante-george-sand-saint-denis/",
+    "price_from": "520.45",
+    "title": "George Sand"
+  },
+  "61037": {
+    "available_rooms": 3,
+    "city": "Palaiseau",
+    "is_new": true,
+    "link": "https://www.arpej.fr/fr/residence/claudie-haignere-palaiseau/",
+    "price_from": "399.47",
+    "title": "Claudie Haigneré - Palaiseau"
+  }
+}
