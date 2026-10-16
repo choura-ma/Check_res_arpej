@@ -39,6 +39,14 @@
     "price_from": "380.8",
     "title": "Alexandre Manceau (partie Pour Etudiants)"
   },
+  "48924": {
+    "available_rooms": 6,
+    "city": "Cesson",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/jean-zay-residence-jeunes-actifs-cesson/",
+    "price_from": "623.27",
+    "title": "Jean Zay (partie Pour Jeunes Actifs)"
+  },
   "48928": {
     "available_rooms": 1,
     "city": "Champs-sur-Marne",
@@ -46,6 +54,14 @@
     "link": "https://www.arpej.fr/fr/residence/perronet-residence-etudiante-champs-sur-marne/",
     "price_from": "377.6",
     "title": "Perronet"
+  },
+  "48933": {
+    "available_rooms": 4,
+    "city": "Cesson",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/jean-zayresidence-etudiante-cesson/",
+    "price_from": "464.62",
+    "title": "Jean Zay (partie Pour Etudiants)"
   },
   "50002": {
     "available_rooms": 1,
