@@ -7,6 +7,14 @@
     "price_from": "403.12",
     "title": "Cité De La Musique"
   },
+  "48629": {
+    "available_rooms": 1,
+    "city": "Noisy-le-Sec",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/jean-francois-deniau-residence-etudiante-noisy-le-sec/",
+    "price_from": "480.52",
+    "title": "Jean-François Deniau"
+  },
   "48660": {
     "available_rooms": 1,
     "city": "Villejuif",
@@ -87,14 +95,6 @@
     "price_from": "605.26",
     "title": "Liberté Saint-Ouen"
   },
-  "54768": {
-    "available_rooms": 2,
-    "city": "La Garenne-Colombes",
-    "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/la-garenne-colombes/",
-    "price_from": "427.08",
-    "title": "Raymond Aron"
-  },
   "58483": {
     "available_rooms": 1,
     "city": "Saint-Denis",
@@ -104,7 +104,7 @@
     "title": "Mahsa Jina Amini"
   },
   "61037": {
-    "available_rooms": 3,
+    "available_rooms": 1,
     "city": "Palaiseau",
     "is_new": true,
     "link": "https://www.arpej.fr/fr/residence/claudie-haignere-palaiseau/",
