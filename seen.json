@@ -1,4 +1,12 @@
 {
+  "48361": {
+    "available_rooms": 1,
+    "city": "Paris",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/cite-de-la-musique-residence-etudiante-paris/",
+    "price_from": "403.12",
+    "title": "Cité De La Musique"
+  },
   "48660": {
     "available_rooms": 1,
     "city": "Villejuif",
