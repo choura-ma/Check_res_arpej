@@ -7,6 +7,14 @@
     "price_from": "403.12",
     "title": "Cité De La Musique"
   },
+  "48608": {
+    "available_rooms": 1,
+    "city": "Charenton-le-Pont",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/du-parc-residence-etudiante-charenton-le-pont/",
+    "price_from": "592.51",
+    "title": "Du Parc"
+  },
   "48660": {
     "available_rooms": 1,
     "city": "Villejuif",
@@ -78,6 +86,14 @@
     "link": "https://www.arpej.fr/fr/residence/saint-ouen/",
     "price_from": "605.26",
     "title": "Liberté Saint-Ouen"
+  },
+  "55500": {
+    "available_rooms": 1,
+    "city": "Pierrefitte-sur-Seine ",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/pierrefitte-sur-seine/",
+    "price_from": "442.64",
+    "title": "Julie Potier"
   },
   "58483": {
     "available_rooms": 1,
