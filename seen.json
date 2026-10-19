@@ -55,6 +55,14 @@
     "price_from": "520.45",
     "title": "George Sand"
   },
+  "54158": {
+    "available_rooms": 1,
+    "city": "Saint-Ouen",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/saint-ouen/",
+    "price_from": "605.26",
+    "title": "Liberté Saint-Ouen"
+  },
   "58483": {
     "available_rooms": 1,
     "city": "Saint-Denis",
