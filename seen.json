@@ -31,6 +31,14 @@
     "price_from": "609.8",
     "title": "Pierre-gilles De Gennes - Villejuif"
   },
+  "48778": {
+    "available_rooms": 1,
+    "city": "Aubervilliers",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/omega-residence-etudiante-aubervilliers/",
+    "price_from": "434.94",
+    "title": "Oméga"
+  },
   "48924": {
     "available_rooms": 6,
     "city": "Cesson",
