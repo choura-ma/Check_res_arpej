@@ -63,14 +63,6 @@
     "price_from": "464.62",
     "title": "Jean Zay (partie Pour Etudiants)"
   },
-  "50002": {
-    "available_rooms": 1,
-    "city": "Saint-Denis",
-    "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/residence-etudiante-george-sand-saint-denis/",
-    "price_from": "520.45",
-    "title": "George Sand"
-  },
   "50223": {
     "available_rooms": 1,
     "city": "Montreuil ",
@@ -110,14 +102,6 @@
     "link": "https://www.arpej.fr/fr/residence/saint-ouen/",
     "price_from": "605.26",
     "title": "Liberté Saint-Ouen"
-  },
-  "58483": {
-    "available_rooms": 1,
-    "city": "Saint-Denis",
-    "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/residence-etudiants-saint-denis-mahsa-jina-amini-arpej/",
-    "price_from": "492.79",
-    "title": "Mahsa Jina Amini"
   },
   "61037": {
     "available_rooms": 1,
