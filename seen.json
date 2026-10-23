@@ -7,14 +7,6 @@
     "price_from": "403.12",
     "title": "Cité De La Musique"
   },
-  "48598": {
-    "available_rooms": 1,
-    "city": "Nanterre",
-    "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/chanzy-residence-etudiante-nanterre/",
-    "price_from": "482.63",
-    "title": "Chanzy"
-  },
   "48629": {
     "available_rooms": 1,
     "city": "Noisy-le-Sec",
@@ -62,14 +54,6 @@
     "link": "https://www.arpej.fr/fr/residence/residence-etudiante-georges-melies-montreuil/",
     "price_from": "523.42",
     "title": "Georges Méliès"
-  },
-  "50411": {
-    "available_rooms": 1,
-    "city": "Cergy-Pontoise",
-    "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/residence-etudiante-paul-delouvrier-cergy-pontoise/",
-    "price_from": "446.75",
-    "title": "Paul Delouvrier"
   },
   "61037": {
     "available_rooms": 1,
