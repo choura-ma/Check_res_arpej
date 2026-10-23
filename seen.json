@@ -1,20 +1,4 @@
 {
-  "48361": {
-    "available_rooms": 1,
-    "city": "Paris",
-    "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/cite-de-la-musique-residence-etudiante-paris/",
-    "price_from": "403.12",
-    "title": "Cité De La Musique"
-  },
-  "48629": {
-    "available_rooms": 1,
-    "city": "Noisy-le-Sec",
-    "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/jean-francois-deniau-residence-etudiante-noisy-le-sec/",
-    "price_from": "480.52",
-    "title": "Jean-François Deniau"
-  },
   "48660": {
     "available_rooms": 1,
     "city": "Villejuif",
