@@ -15,6 +15,14 @@
     "price_from": "609.8",
     "title": "Pierre-gilles De Gennes - Villejuif"
   },
+  "48922": {
+    "available_rooms": 1,
+    "city": "Aubervilliers",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/carmen-caron-residence-etudiante-aubervilliers/",
+    "price_from": "692.77",
+    "title": "Carmen Caron (partie Pour Etudiants)"
+  },
   "48924": {
     "available_rooms": 6,
     "city": "Cesson",
