@@ -39,6 +39,14 @@
     "price_from": "533.4",
     "title": "George Sand"
   },
+  "53932": {
+    "available_rooms": 1,
+    "city": "Bezons",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/etudiant-bezons/",
+    "price_from": "488.96",
+    "title": "Guy de Maupassant"
+  },
   "61037": {
     "available_rooms": 1,
     "city": "Palaiseau",
