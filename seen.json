@@ -23,6 +23,14 @@
     "price_from": "646.55",
     "title": "Carmen Caron (partie Pour Jeunes Actifs)"
   },
+  "48908": {
+    "available_rooms": 1,
+    "city": "Palaiseau",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/edgar-faure-residence-etudiante-palaiseau/",
+    "price_from": "577.74",
+    "title": "Edgar Faure"
+  },
   "48922": {
     "available_rooms": 1,
     "city": "Aubervilliers",
@@ -47,13 +55,13 @@
     "price_from": "464.62",
     "title": "Jean Zay (partie Pour Etudiants)"
   },
-  "52867": {
+  "50383": {
     "available_rooms": 1,
-    "city": "Eaubonne",
+    "city": "Cergy-Pontoise",
     "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/residence-etudiante-george-sand-eaubonne/",
-    "price_from": "533.4",
-    "title": "George Sand"
+    "link": "https://www.arpej.fr/fr/residence/residence-etudiante-poseidon-cergy-pontoise/",
+    "price_from": "494.14",
+    "title": "Poséidon"
   },
   "61037": {
     "available_rooms": 1,
