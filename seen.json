@@ -23,6 +23,14 @@
     "price_from": "542.09",
     "title": "Les Bords De Seine"
   },
+  "48725": {
+    "available_rooms": 1,
+    "city": "Créteil ",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/les-choux-de-creteil-residence-etudiante/",
+    "price_from": "413.09",
+    "title": "Les Choux"
+  },
   "48908": {
     "available_rooms": 1,
     "city": "Palaiseau",
