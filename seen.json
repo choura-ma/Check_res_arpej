@@ -15,14 +15,6 @@
     "price_from": "646.55",
     "title": "Carmen Caron (partie Pour Jeunes Actifs)"
   },
-  "48715": {
-    "available_rooms": 1,
-    "city": "Alfortville",
-    "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/les-bords-de-seine-residence-etudiante-alfortville/",
-    "price_from": "542.09",
-    "title": "Les Bords De Seine"
-  },
   "48908": {
     "available_rooms": 1,
     "city": "Palaiseau",
@@ -39,6 +31,14 @@
     "price_from": "623.27",
     "title": "Jean Zay (partie Pour Jeunes Actifs)"
   },
+  "50411": {
+    "available_rooms": 1,
+    "city": "Cergy-Pontoise",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/residence-etudiante-paul-delouvrier-cergy-pontoise/",
+    "price_from": "446.75",
+    "title": "Paul Delouvrier"
+  },
   "50438": {
     "available_rooms": 1,
     "city": "Voisins-le-Bretonneux",
@@ -46,6 +46,14 @@
     "link": "https://www.arpej.fr/fr/residence/residence-jeunes-actifs-la-cybele-voisins-le-bretonneux/",
     "price_from": "478.33",
     "title": "La Cybèle (partie Pour Jeunes Actifs)"
+  },
+  "53833": {
+    "available_rooms": 1,
+    "city": "Cergy",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/etudiant-cergy/",
+    "price_from": "357.65",
+    "title": "Paul Cézanne"
   },
   "61037": {
     "available_rooms": 1,
