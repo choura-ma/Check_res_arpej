@@ -31,6 +31,14 @@
     "price_from": "623.27",
     "title": "Jean Zay (partie Pour Jeunes Actifs)"
   },
+  "50223": {
+    "available_rooms": 1,
+    "city": "Montreuil ",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/residence-etudiante-georges-melies-montreuil/",
+    "price_from": "523.42",
+    "title": "Georges Méliès"
+  },
   "50395": {
     "available_rooms": 1,
     "city": "Gennevilliers",
