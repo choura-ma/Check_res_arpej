@@ -55,6 +55,14 @@
     "price_from": "533.4",
     "title": "George Sand"
   },
+  "58483": {
+    "available_rooms": 1,
+    "city": "Saint-Denis",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/residence-etudiants-saint-denis-mahsa-jina-amini-arpej/",
+    "price_from": "492.79",
+    "title": "Mahsa Jina Amini"
+  },
   "61037": {
     "available_rooms": 1,
     "city": "Palaiseau",
