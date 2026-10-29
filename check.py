@@ -26,7 +26,7 @@ def fetch_residences():
         API_URL,
         params=PARAMS,
         headers={"User-Agent": "Mozilla/5.0 (residence watcher)"},
-        timeout=30,
+        timeout=60,
     )
     r.raise_for_status()
     out = {}
