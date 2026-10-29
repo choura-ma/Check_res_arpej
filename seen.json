@@ -15,6 +15,14 @@
     "price_from": "506.86",
     "title": "Jean-Paul Goude"
   },
+  "48914": {
+    "available_rooms": 1,
+    "city": "Palaiseau",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/alexandre-manceau-residence-etudiante-palaiseau/",
+    "price_from": "380.8",
+    "title": "Alexandre Manceau (partie Pour Etudiants)"
+  },
   "48924": {
     "available_rooms": 6,
     "city": "Cesson",
