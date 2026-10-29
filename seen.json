@@ -39,6 +39,14 @@
     "price_from": "494.14",
     "title": "Poséidon"
   },
+  "50401": {
+    "available_rooms": 1,
+    "city": "Gennevilliers",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/residence-etudiante-baudin-gennevilliers/",
+    "price_from": "553.81",
+    "title": "Baudin"
+  },
   "61037": {
     "available_rooms": 1,
     "city": "Palaiseau",
