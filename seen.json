@@ -23,14 +23,6 @@
     "price_from": "380.8",
     "title": "Alexandre Manceau (partie Pour Etudiants)"
   },
-  "48924": {
-    "available_rooms": 6,
-    "city": "Cesson",
-    "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/jean-zay-residence-jeunes-actifs-cesson/",
-    "price_from": "623.27",
-    "title": "Jean Zay (partie Pour Jeunes Actifs)"
-  },
   "50223": {
     "available_rooms": 1,
     "city": "Montreuil ",
@@ -54,6 +46,14 @@
     "link": "https://www.arpej.fr/fr/residence/residence-etudiante-baudin-gennevilliers/",
     "price_from": "553.81",
     "title": "Baudin"
+  },
+  "52867": {
+    "available_rooms": 1,
+    "city": "Eaubonne",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/residence-etudiante-george-sand-eaubonne/",
+    "price_from": "533.4",
+    "title": "George Sand"
   },
   "61037": {
     "available_rooms": 1,
