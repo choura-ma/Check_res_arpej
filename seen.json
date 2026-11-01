@@ -1,12 +1,4 @@
 {
-  "48660": {
-    "available_rooms": 1,
-    "city": "Villejuif",
-    "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/pierre-gilles-de-gennes-residence-etudiante-villejuif/",
-    "price_from": "609.8",
-    "title": "Pierre-gilles De Gennes - Villejuif"
-  },
   "48736": {
     "available_rooms": 1,
     "city": "Saint-Mandé",
@@ -23,13 +15,13 @@
     "price_from": "380.8",
     "title": "Alexandre Manceau (partie Pour Etudiants)"
   },
-  "50223": {
-    "available_rooms": 1,
-    "city": "Montreuil ",
+  "48924": {
+    "available_rooms": 2,
+    "city": "Cesson",
     "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/residence-etudiante-georges-melies-montreuil/",
-    "price_from": "523.42",
-    "title": "Georges Méliès"
+    "link": "https://www.arpej.fr/fr/residence/jean-zay-residence-jeunes-actifs-cesson/",
+    "price_from": "623.27",
+    "title": "Jean Zay (partie Pour Jeunes Actifs)"
   },
   "50383": {
     "available_rooms": 1,
@@ -38,37 +30,5 @@
     "link": "https://www.arpej.fr/fr/residence/residence-etudiante-poseidon-cergy-pontoise/",
     "price_from": "494.14",
     "title": "Poséidon"
-  },
-  "50401": {
-    "available_rooms": 1,
-    "city": "Gennevilliers",
-    "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/residence-etudiante-baudin-gennevilliers/",
-    "price_from": "553.81",
-    "title": "Baudin"
-  },
-  "52867": {
-    "available_rooms": 1,
-    "city": "Eaubonne",
-    "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/residence-etudiante-george-sand-eaubonne/",
-    "price_from": "533.4",
-    "title": "George Sand"
-  },
-  "58483": {
-    "available_rooms": 1,
-    "city": "Saint-Denis",
-    "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/residence-etudiants-saint-denis-mahsa-jina-amini-arpej/",
-    "price_from": "492.79",
-    "title": "Mahsa Jina Amini"
-  },
-  "61037": {
-    "available_rooms": 1,
-    "city": "Palaiseau",
-    "is_new": true,
-    "link": "https://www.arpej.fr/fr/residence/claudie-haignere-palaiseau/",
-    "price_from": "399.47",
-    "title": "Claudie Haigneré - Palaiseau"
   }
 }
