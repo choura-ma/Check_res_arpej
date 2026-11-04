@@ -39,6 +39,14 @@
     "price_from": "479.14",
     "title": "La Cerisaie"
   },
+  "48799": {
+    "available_rooms": 1,
+    "city": "Neuilly-Plaisance",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/simone-veil-residence-etudiante-neuilly-plaisance/",
+    "price_from": "596.01",
+    "title": "Simone Veil"
+  },
   "48823": {
     "available_rooms": 1,
     "city": "Aubervilliers",
