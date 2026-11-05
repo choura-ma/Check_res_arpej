@@ -39,6 +39,14 @@
     "price_from": "492.84",
     "title": "Saint-Exupéry"
   },
+  "48908": {
+    "available_rooms": 1,
+    "city": "Palaiseau",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/edgar-faure-residence-etudiante-palaiseau/",
+    "price_from": "577.74",
+    "title": "Edgar Faure"
+  },
   "48910": {
     "available_rooms": 1,
     "city": "Evry-Courcouronnes",
