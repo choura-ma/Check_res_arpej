@@ -15,14 +15,6 @@
     "price_from": "439.99",
     "title": "Volti"
   },
-  "48715": {
-    "available_rooms": 1,
-    "city": "Alfortville",
-    "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/les-bords-de-seine-residence-etudiante-alfortville/",
-    "price_from": "542.09",
-    "title": "Les Bords De Seine"
-  },
   "48736": {
     "available_rooms": 1,
     "city": "Saint-Mandé",
@@ -110,5 +102,13 @@
     "link": "https://www.arpej.fr/fr/residence/etudiante-pierre-vidal-naquet-saint-denis/",
     "price_from": "431.06",
     "title": "Pierre Vidal-Naquet"
+  },
+  "53833": {
+    "available_rooms": 1,
+    "city": "Cergy",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/etudiant-cergy/",
+    "price_from": "357.65",
+    "title": "Paul Cézanne"
   }
 }
