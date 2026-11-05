@@ -31,6 +31,14 @@
     "price_from": "587.83",
     "title": "Val Pompadour"
   },
+  "48823": {
+    "available_rooms": 1,
+    "city": "Aubervilliers",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/alpha-residence-etudiante-aubervilliers/",
+    "price_from": "441.55",
+    "title": "Alpha"
+  },
   "48906": {
     "available_rooms": 1,
     "city": "Evry-Courcouronnes",
