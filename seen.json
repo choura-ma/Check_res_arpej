@@ -55,6 +55,14 @@
     "price_from": "556.96",
     "title": "Bernard Barataud"
   },
+  "48912": {
+    "available_rooms": 1,
+    "city": "Palaiseau",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/alexandre-manceau-residence-jeunes-actifs-palaiseau/",
+    "price_from": "475.22",
+    "title": "Alexandre Manceau (partie Pour Jeunes Actifs)"
+  },
   "48933": {
     "available_rooms": 6,
     "city": "Cesson",
