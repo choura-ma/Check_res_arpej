@@ -23,14 +23,6 @@
     "price_from": "587.83",
     "title": "Val Pompadour"
   },
-  "48906": {
-    "available_rooms": 1,
-    "city": "Evry-Courcouronnes",
-    "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/saint-exupery-residence-jeunes-actifs-evry-courcouronnes/",
-    "price_from": "492.84",
-    "title": "Saint-Exupéry"
-  },
   "48908": {
     "available_rooms": 1,
     "city": "Palaiseau",
@@ -86,5 +78,13 @@
     "link": "https://www.arpej.fr/fr/residence/etudiant-cergy/",
     "price_from": "357.65",
     "title": "Paul Cézanne"
+  },
+  "54165": {
+    "available_rooms": 1,
+    "city": "Suresnes",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/etudiante-suresnes/",
+    "price_from": "602.48",
+    "title": "Louis Blériot"
   }
 }
