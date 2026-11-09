@@ -86,13 +86,5 @@
     "link": "https://www.arpej.fr/fr/residence/etudiant-cergy/",
     "price_from": "357.65",
     "title": "Paul Cézanne"
-  },
-  "54165": {
-    "available_rooms": 1,
-    "city": "Suresnes",
-    "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/etudiante-suresnes/",
-    "price_from": "602.48",
-    "title": "Louis Blériot"
   }
 }
