@@ -31,6 +31,14 @@
     "price_from": "587.83",
     "title": "Val Pompadour"
   },
+  "48835": {
+    "available_rooms": 1,
+    "city": "Courbevoie",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/jacques-henri-lartigue-residence-etudiante-courbevoie/",
+    "price_from": "522.78",
+    "title": "Jacques-Henri Lartigue"
+  },
   "48906": {
     "available_rooms": 1,
     "city": "Evry-Courcouronnes",
