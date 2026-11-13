@@ -31,6 +31,14 @@
     "price_from": "609.8",
     "title": "Pierre-gilles De Gennes - Villejuif"
   },
+  "48708": {
+    "available_rooms": 1,
+    "city": "Aubervilliers",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/carmen-caron-residence-jeunes-actifs-aubervilliers/",
+    "price_from": "646.55",
+    "title": "Carmen Caron (partie Pour Jeunes Actifs)"
+  },
   "48736": {
     "available_rooms": 1,
     "city": "Saint-Mandé",
@@ -54,6 +62,14 @@
     "link": "https://www.arpej.fr/fr/residence/alexandre-manceau-residence-jeunes-actifs-palaiseau/",
     "price_from": "475.22",
     "title": "Alexandre Manceau (partie Pour Jeunes Actifs)"
+  },
+  "48922": {
+    "available_rooms": 1,
+    "city": "Aubervilliers",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/carmen-caron-residence-etudiante-aubervilliers/",
+    "price_from": "692.77",
+    "title": "Carmen Caron (partie Pour Etudiants)"
   },
   "48924": {
     "available_rooms": 1,
