@@ -1,4 +1,12 @@
 {
+  "48350": {
+    "available_rooms": 1,
+    "city": "Neuilly-Plaisance",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/andre-devambez-residence-etudiante-neuilly-plaisance/",
+    "price_from": "527.12",
+    "title": "André Devambez"
+  },
   "48584": {
     "available_rooms": 1,
     "city": "Le Port-Marly",
