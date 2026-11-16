@@ -7,6 +7,14 @@
     "price_from": "609.8",
     "title": "Pierre-gilles De Gennes - Villejuif"
   },
+  "48683": {
+    "available_rooms": 1,
+    "city": "Cachan",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/volti-residence-etudiante-cachan/",
+    "price_from": "439.99",
+    "title": "Volti"
+  },
   "48708": {
     "available_rooms": 1,
     "city": "Aubervilliers",
@@ -14,14 +22,6 @@
     "link": "https://www.arpej.fr/fr/residence/carmen-caron-residence-jeunes-actifs-aubervilliers/",
     "price_from": "646.55",
     "title": "Carmen Caron (partie Pour Jeunes Actifs)"
-  },
-  "48718": {
-    "available_rooms": 1,
-    "city": "Bonneuil-sur-Marne",
-    "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/pierre-bourdieu-residence-etudiante-bonneuil-sur-marne/",
-    "price_from": "430.78",
-    "title": "Pierre Bourdieu"
   },
   "48736": {
     "available_rooms": 1,
