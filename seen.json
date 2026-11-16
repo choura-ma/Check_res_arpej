@@ -1,12 +1,4 @@
 {
-  "48629": {
-    "available_rooms": 1,
-    "city": "Noisy-le-Sec",
-    "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/jean-francois-deniau-residence-etudiante-noisy-le-sec/",
-    "price_from": "480.52",
-    "title": "Jean-François Deniau"
-  },
   "48660": {
     "available_rooms": 1,
     "city": "Villejuif",
@@ -70,5 +62,13 @@
     "link": "https://www.arpej.fr/fr/residence/etudiant-cergy/",
     "price_from": "357.65",
     "title": "Paul Cézanne"
+  },
+  "53932": {
+    "available_rooms": 1,
+    "city": "Bezons",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/etudiant-bezons/",
+    "price_from": "488.96",
+    "title": "Guy de Maupassant"
   }
 }
