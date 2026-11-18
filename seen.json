@@ -15,13 +15,13 @@
     "price_from": "439.99",
     "title": "Volti"
   },
-  "48692": {
-    "available_rooms": 2,
+  "48700": {
+    "available_rooms": 1,
     "city": "Vélizy-Villacoublay",
     "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/campuseo-partie-pour-etudiants-residence-etudiante-velizy-villacoublay/",
-    "price_from": "583.34",
-    "title": "Campuséo (partie Pour Etudiants)"
+    "link": "https://www.arpej.fr/fr/residence/campuseo-residence-jeunes-actifs-velizy-villacoublay/",
+    "price_from": "613.83",
+    "title": "Campuséo (partie Pour Jeunes Actifs)"
   },
   "48708": {
     "available_rooms": 1,
@@ -30,6 +30,14 @@
     "link": "https://www.arpej.fr/fr/residence/carmen-caron-residence-jeunes-actifs-aubervilliers/",
     "price_from": "646.55",
     "title": "Carmen Caron (partie Pour Jeunes Actifs)"
+  },
+  "48718": {
+    "available_rooms": 1,
+    "city": "Bonneuil-sur-Marne",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/pierre-bourdieu-residence-etudiante-bonneuil-sur-marne/",
+    "price_from": "430.78",
+    "title": "Pierre Bourdieu"
   },
   "48912": {
     "available_rooms": 1,
