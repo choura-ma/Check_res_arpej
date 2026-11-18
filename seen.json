@@ -15,6 +15,14 @@
     "price_from": "439.99",
     "title": "Volti"
   },
+  "48692": {
+    "available_rooms": 2,
+    "city": "Vélizy-Villacoublay",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/campuseo-partie-pour-etudiants-residence-etudiante-velizy-villacoublay/",
+    "price_from": "583.34",
+    "title": "Campuséo (partie Pour Etudiants)"
+  },
   "48708": {
     "available_rooms": 1,
     "city": "Aubervilliers",
@@ -38,6 +46,14 @@
     "link": "https://www.arpej.fr/fr/residence/frida-kahlo-residence-etudiante-montreuil/",
     "price_from": "555.71",
     "title": "Frida Kahlo"
+  },
+  "48924": {
+    "available_rooms": 2,
+    "city": "Cesson",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/jean-zay-residence-jeunes-actifs-cesson/",
+    "price_from": "623.27",
+    "title": "Jean Zay (partie Pour Jeunes Actifs)"
   },
   "48928": {
     "available_rooms": 1,
