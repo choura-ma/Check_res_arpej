@@ -70,5 +70,13 @@
     "link": "https://www.arpej.fr/fr/residence/berthelot-residence-chercheurs-meudon/",
     "price_from": "601.23",
     "title": "Berthelot"
+  },
+  "52156": {
+    "available_rooms": 1,
+    "city": "Eaubonne",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/residence-etudiante-rosa-parks-eaubonne/",
+    "price_from": "555.16",
+    "title": "Rosa Parks"
   }
 }
