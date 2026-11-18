@@ -15,14 +15,6 @@
     "price_from": "439.99",
     "title": "Volti"
   },
-  "48700": {
-    "available_rooms": 1,
-    "city": "Vélizy-Villacoublay",
-    "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/campuseo-residence-jeunes-actifs-velizy-villacoublay/",
-    "price_from": "613.83",
-    "title": "Campuséo (partie Pour Jeunes Actifs)"
-  },
   "48912": {
     "available_rooms": 1,
     "city": "Palaiseau",
@@ -62,14 +54,6 @@
     "link": "https://www.arpej.fr/fr/residence/residence-etudiante-ampere-champs-sur-marne/",
     "price_from": "438.34",
     "title": "Ampère"
-  },
-  "50433": {
-    "available_rooms": 2,
-    "city": "Meudon",
-    "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/berthelot-residence-chercheurs-meudon/",
-    "price_from": "601.23",
-    "title": "Berthelot"
   },
   "50438": {
     "available_rooms": 1,
