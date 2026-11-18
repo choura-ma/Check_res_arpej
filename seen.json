@@ -23,14 +23,6 @@
     "price_from": "613.83",
     "title": "Campuséo (partie Pour Jeunes Actifs)"
   },
-  "48708": {
-    "available_rooms": 1,
-    "city": "Aubervilliers",
-    "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/carmen-caron-residence-jeunes-actifs-aubervilliers/",
-    "price_from": "646.55",
-    "title": "Carmen Caron (partie Pour Jeunes Actifs)"
-  },
   "48912": {
     "available_rooms": 1,
     "city": "Palaiseau",
@@ -78,6 +70,14 @@
     "link": "https://www.arpej.fr/fr/residence/berthelot-residence-chercheurs-meudon/",
     "price_from": "601.23",
     "title": "Berthelot"
+  },
+  "50438": {
+    "available_rooms": 1,
+    "city": "Voisins-le-Bretonneux",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/residence-jeunes-actifs-la-cybele-voisins-le-bretonneux/",
+    "price_from": "478.33",
+    "title": "La Cybèle (partie Pour Jeunes Actifs)"
   },
   "52156": {
     "available_rooms": 1,
