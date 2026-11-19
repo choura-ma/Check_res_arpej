@@ -46,13 +46,5 @@
     "link": "https://www.arpej.fr/fr/residence/residence-etudiante-ampere-champs-sur-marne/",
     "price_from": "438.34",
     "title": "Ampère"
-  },
-  "50438": {
-    "available_rooms": 1,
-    "city": "Voisins-le-Bretonneux",
-    "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/residence-jeunes-actifs-la-cybele-voisins-le-bretonneux/",
-    "price_from": "478.33",
-    "title": "La Cybèle (partie Pour Jeunes Actifs)"
   }
 }
