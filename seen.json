@@ -54,5 +54,13 @@
     "link": "https://www.arpej.fr/fr/residence/residence-etudiante-henri-langlois-bois-darcy/",
     "price_from": "476.72",
     "title": "Henri Langlois"
+  },
+  "54158": {
+    "available_rooms": 1,
+    "city": "Saint-Ouen",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/saint-ouen/",
+    "price_from": "605.26",
+    "title": "Liberté Saint-Ouen"
   }
 }
