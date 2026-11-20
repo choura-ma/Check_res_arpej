@@ -71,6 +71,14 @@
     "price_from": "476.72",
     "title": "Henri Langlois"
   },
+  "53833": {
+    "available_rooms": 1,
+    "city": "Cergy",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/etudiant-cergy/",
+    "price_from": "357.65",
+    "title": "Paul Cézanne"
+  },
   "58857": {
     "available_rooms": 1,
     "city": "Le Vésinet",
