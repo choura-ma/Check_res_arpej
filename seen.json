@@ -127,6 +127,14 @@
     "price_from": "357.65",
     "title": "Paul Cézanne"
   },
+  "55500": {
+    "available_rooms": 1,
+    "city": "Pierrefitte-sur-Seine ",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/pierrefitte-sur-seine/",
+    "price_from": "442.64",
+    "title": "Julie Potier"
+  },
   "58857": {
     "available_rooms": 1,
     "city": "Le Vésinet",
