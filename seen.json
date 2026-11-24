@@ -7,14 +7,6 @@
     "price_from": "429.97",
     "title": "Alfred Sisley"
   },
-  "48591": {
-    "available_rooms": 1,
-    "city": "Saint-Denis",
-    "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/camille-see-residence-etudiante-saint-denis/",
-    "price_from": "470.23",
-    "title": "Camille Sée"
-  },
   "48660": {
     "available_rooms": 1,
     "city": "Villejuif",
@@ -126,6 +118,14 @@
     "link": "https://www.arpej.fr/fr/residence/residence-etudiante-george-sand-eaubonne/",
     "price_from": "533.4",
     "title": "George Sand"
+  },
+  "53194": {
+    "available_rooms": 1,
+    "city": "Saint-Denis",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/etudiante-pierre-vidal-naquet-saint-denis/",
+    "price_from": "431.06",
+    "title": "Pierre Vidal-Naquet"
   },
   "53833": {
     "available_rooms": 1,
