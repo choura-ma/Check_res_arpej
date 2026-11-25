@@ -87,6 +87,14 @@
     "price_from": "476.72",
     "title": "Henri Langlois"
   },
+  "50433": {
+    "available_rooms": 2,
+    "city": "Meudon",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/berthelot-residence-chercheurs-meudon/",
+    "price_from": "601.23",
+    "title": "Berthelot"
+  },
   "53194": {
     "available_rooms": 1,
     "city": "Saint-Denis",
