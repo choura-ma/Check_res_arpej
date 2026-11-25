@@ -31,22 +31,6 @@
     "price_from": "587.83",
     "title": "Val Pompadour"
   },
-  "48754": {
-    "available_rooms": 1,
-    "city": "Montreuil",
-    "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/le-rodrigue-residence-etudiante-montreuil/",
-    "price_from": "565.78",
-    "title": "Le Rodrigue"
-  },
-  "48809": {
-    "available_rooms": 1,
-    "city": "Montreuil",
-    "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/wangari-maathai-residence-etudiante-montreuil/",
-    "price_from": "657.56",
-    "title": "Wangari Maathai (partie Pour Etudiants)"
-  },
   "48910": {
     "available_rooms": 2,
     "city": "Evry-Courcouronnes",
