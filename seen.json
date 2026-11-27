@@ -31,6 +31,14 @@
     "price_from": "441.55",
     "title": "Alpha"
   },
+  "48906": {
+    "available_rooms": 2,
+    "city": "Evry-Courcouronnes",
+    "is_new": false,
+    "link": "https://www.arpej.fr/fr/residence/saint-exupery-residence-jeunes-actifs-evry-courcouronnes/",
+    "price_from": "492.84",
+    "title": "Saint-Exupéry"
+  },
   "48912": {
     "available_rooms": 1,
     "city": "Palaiseau",
