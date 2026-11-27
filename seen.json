@@ -23,14 +23,6 @@
     "price_from": "587.83",
     "title": "Val Pompadour"
   },
-  "48802": {
-    "available_rooms": 1,
-    "city": "Vélizy-Villacoublay",
-    "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/victor-guerreau-residence-etudiante-velizy-villacoublay/",
-    "price_from": "449.47",
-    "title": "Victor Guerreau"
-  },
   "48912": {
     "available_rooms": 1,
     "city": "Palaiseau",
@@ -86,13 +78,5 @@
     "link": "https://www.arpej.fr/fr/residence/etudiant-cergy/",
     "price_from": "357.65",
     "title": "Paul Cézanne"
-  },
-  "53932": {
-    "available_rooms": 1,
-    "city": "Bezons",
-    "is_new": false,
-    "link": "https://www.arpej.fr/fr/residence/etudiant-bezons/",
-    "price_from": "488.96",
-    "title": "Guy de Maupassant"
   }
 }
